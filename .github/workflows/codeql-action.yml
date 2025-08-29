@@ -7,4 +7,4 @@ jobs:
   time:
     runs-on: ubuntu-latest
     steps:
-      - uses: github/codeql-action/init@48dd624a81acd5d5f2e94c2b1e54102c6b5bd642
+      - uses: github/codeql-action/init@02ab253bd299d261d00cdf8a9bca38fea2697d50
